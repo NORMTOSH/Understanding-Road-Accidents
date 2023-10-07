@@ -10,11 +10,11 @@ This project aims to leverage machine learning (ML) techniques to analyze and pr
 Link: https://omdena.com/chapter-challenges/predicting-road-accident-severity-in-kenya-using-machine-learning/
 
 # Project Tasks
-** Week 1: Understanding the problem and the objectives of the project. **
-** Week 2: Data Collection. **
-** Week 3: Data Preprocessing. **
-Week 4: Exploratory Data Analysis.
-Week 5: Hotspot Identification.
-Week 6: Accident Severity Modelling.
-Week 7: Dashboard Development.
-Week 8: Project Completion.
+* Week 1: Understanding the problem and the objectives of the project.
+* Week 2: Data Collection.
+* Week 3: Data Preprocessing.
+* Week 4: Exploratory Data Analysis.
+* Week 5: Hotspot Identification.
+* Week 6: Accident Severity Modelling.
+* Week 7: Dashboard Development.
+* Week 8: Project Completion.
